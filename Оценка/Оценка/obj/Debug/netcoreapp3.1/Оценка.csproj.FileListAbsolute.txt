@@ -1,0 +1,13 @@
+C:\Users\Ёжик\source\repos\Оценка\Оценка\bin\Debug\netcoreapp3.1\Оценка.exe
+C:\Users\Ёжик\source\repos\Оценка\Оценка\bin\Debug\netcoreapp3.1\Оценка.deps.json
+C:\Users\Ёжик\source\repos\Оценка\Оценка\bin\Debug\netcoreapp3.1\Оценка.runtimeconfig.json
+C:\Users\Ёжик\source\repos\Оценка\Оценка\bin\Debug\netcoreapp3.1\Оценка.runtimeconfig.dev.json
+C:\Users\Ёжик\source\repos\Оценка\Оценка\bin\Debug\netcoreapp3.1\Оценка.dll
+C:\Users\Ёжик\source\repos\Оценка\Оценка\bin\Debug\netcoreapp3.1\Оценка.pdb
+C:\Users\Ёжик\source\repos\Оценка\Оценка\obj\Debug\netcoreapp3.1\Оценка.csprojAssemblyReference.cache
+C:\Users\Ёжик\source\repos\Оценка\Оценка\obj\Debug\netcoreapp3.1\Оценка.AssemblyInfoInputs.cache
+C:\Users\Ёжик\source\repos\Оценка\Оценка\obj\Debug\netcoreapp3.1\Оценка.AssemblyInfo.cs
+C:\Users\Ёжик\source\repos\Оценка\Оценка\obj\Debug\netcoreapp3.1\Оценка.csproj.CoreCompileInputs.cache
+C:\Users\Ёжик\source\repos\Оценка\Оценка\obj\Debug\netcoreapp3.1\Оценка.dll
+C:\Users\Ёжик\source\repos\Оценка\Оценка\obj\Debug\netcoreapp3.1\Оценка.pdb
+C:\Users\Ёжик\source\repos\Оценка\Оценка\obj\Debug\netcoreapp3.1\Оценка.genruntimeconfig.cache
